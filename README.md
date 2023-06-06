@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="/img/print.png" alt="print"/>
+<img src="https://raw.githubusercontent.com/AndersonDinizDev/projects-thumbnail/master/hamburguer-api.png" alt="print"/>
  </p>
 
 ## 💻 Requiriments:
